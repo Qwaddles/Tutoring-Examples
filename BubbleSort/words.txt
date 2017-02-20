@@ -1,0 +1,13 @@
+zoo
+banana
+taco
+plate
+window
+soup
+turkey
+beer
+wine
+this
+is
+working
+ajustincase

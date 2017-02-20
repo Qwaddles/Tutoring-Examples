@@ -1,0 +1,32 @@
+
+#top{
+	text-align: center;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding:10px;
+}
+#mid{
+	text-align:center;
+	text-align: center;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding:10px;
+	margin-top: 10px;
+
+}
+
+table{
+	border:2px solid red;
+	border-collapse: collapse; /*this collapses the border so they are not seperate.*/
+	margin-left: auto; /*centering the table*/
+	margin-right: auto;
+	white-space: nowrap; /* I don't want the table wrapping when the window is shrunk*/
+
+}
+
+td, th {
+border:2px solid red;
+padding:10px; /*making some room in the elements */
+}
